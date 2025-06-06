@@ -1,6 +1,8 @@
-# untitled2
+# rollerdice
 
-A new Flutter project.
+Roller dice game that gives a random output from one to six.
+
+---
 
 ## Getting Started
 
